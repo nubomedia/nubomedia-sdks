@@ -1,0 +1,3 @@
+[submodule "webrtcpeer-android"]
+	path = webrtcpeer-android
+	url = https://github.com/nubomedia/webrtcpeer-android
