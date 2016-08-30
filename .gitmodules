@@ -58,3 +58,6 @@
 [submodule "NUBOMEDIA-VCA-NODE-API"]
 	path = NUBOMEDIA-VCA-NODE-API
 	url = https://github.com/nubomedia/NUBOMEDIA-VCA-NODE-API
+[submodule "Kurento-iOS"]
+	path = Kurento-iOS
+	url = https://github.com/nubomedia/Kurento-iOS
