@@ -4,3 +4,6 @@
 [submodule "kurento-tree-client-android"]
 	path = kurento-tree-client-android
 	url = https://github.com/nubomedia/kurento-tree-client-android
+[submodule "kurento-room-client-android"]
+	path = kurento-room-client-android
+	url = https://github.com/nubomedia/kurento-room-client-android
