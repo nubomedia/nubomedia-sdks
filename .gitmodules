@@ -13,3 +13,6 @@
 [submodule "nubo-test-tree"]
 	path = nubo-test-tree
 	url = https://github.com/nubomedia/nubo-test-tree
+[submodule "utilities-android"]
+	path = utilities-android
+	url = https://github.com/nubomedia/utilities-android
