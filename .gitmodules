@@ -49,3 +49,6 @@
 [submodule "promisecallback"]
 	path = promisecallback
 	url = https://github.com/nubomedia/promisecallback
+[submodule "nubomedia-graphedit"]
+	path = nubomedia-graphedit
+	url = https://github.com/nubomedia/nubomedia-graphedit
