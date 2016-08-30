@@ -25,3 +25,6 @@
 [submodule "kurento-java"]
 	path = kurento-java
 	url = https://github.com/nubomedia/kurento-java
+[submodule "kurento-utils-js"]
+	path = kurento-utils-js
+	url = https://github.com/nubomedia/kurento-utils-js
