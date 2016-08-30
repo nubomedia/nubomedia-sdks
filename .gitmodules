@@ -16,3 +16,6 @@
 [submodule "utilities-android"]
 	path = utilities-android
 	url = https://github.com/nubomedia/utilities-android
+[submodule "nubomedia-repository-client"]
+	path = nubomedia-repository-client
+	url = https://github.com/nubomedia/nubomedia-repository-client
