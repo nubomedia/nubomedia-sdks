@@ -46,3 +46,6 @@
 [submodule "kurento-maven-plugin"]
 	path = kurento-maven-plugin
 	url = https://github.com/nubomedia/kurento-maven-plugin
+[submodule "promisecallback"]
+	path = promisecallback
+	url = https://github.com/nubomedia/promisecallback
