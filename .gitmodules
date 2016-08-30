@@ -7,3 +7,6 @@
 [submodule "kurento-room-client-android"]
 	path = kurento-room-client-android
 	url = https://github.com/nubomedia/kurento-room-client-android
+[submodule "jsonrpc-ws-android"]
+	path = jsonrpc-ws-android
+	url = https://github.com/nubomedia/jsonrpc-ws-android
