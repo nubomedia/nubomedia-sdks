@@ -55,3 +55,6 @@
 [submodule "NUBOMEDIA-VCA-JS-API"]
 	path = NUBOMEDIA-VCA-JS-API
 	url = https://github.com/nubomedia/NUBOMEDIA-VCA-JS-API
+[submodule "NUBOMEDIA-VCA-NODE-API"]
+	path = NUBOMEDIA-VCA-NODE-API
+	url = https://github.com/nubomedia/NUBOMEDIA-VCA-NODE-API
