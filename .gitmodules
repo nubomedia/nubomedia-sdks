@@ -28,3 +28,6 @@
 [submodule "kurento-utils-js"]
 	path = kurento-utils-js
 	url = https://github.com/nubomedia/kurento-utils-js
+[submodule "kurento-room"]
+	path = kurento-room
+	url = https://github.com/nubomedia/kurento-room
