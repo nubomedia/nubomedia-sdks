@@ -40,3 +40,6 @@
 [submodule "kurento-tutorial-node"]
 	path = kurento-tutorial-node
 	url = https://github.com/nubomedia/kurento-tutorial-node
+[submodule "kurento-tutorial-js"]
+	path = kurento-tutorial-js
+	url = https://github.com/nubomedia/kurento-tutorial-js
