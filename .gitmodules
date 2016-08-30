@@ -10,3 +10,6 @@
 [submodule "jsonrpc-ws-android"]
 	path = jsonrpc-ws-android
 	url = https://github.com/nubomedia/jsonrpc-ws-android
+[submodule "nubo-test-tree"]
+	path = nubo-test-tree
+	url = https://github.com/nubomedia/nubo-test-tree
