@@ -19,3 +19,6 @@
 [submodule "nubomedia-repository-client"]
 	path = nubomedia-repository-client
 	url = https://github.com/nubomedia/nubomedia-repository-client
+[submodule "nubomedia-media-client"]
+	path = nubomedia-media-client
+	url = https://github.com/nubomedia/nubomedia-media-client
