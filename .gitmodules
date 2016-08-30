@@ -43,3 +43,6 @@
 [submodule "kurento-tutorial-js"]
 	path = kurento-tutorial-js
 	url = https://github.com/nubomedia/kurento-tutorial-js
+[submodule "kurento-maven-plugin"]
+	path = kurento-maven-plugin
+	url = https://github.com/nubomedia/kurento-maven-plugin
