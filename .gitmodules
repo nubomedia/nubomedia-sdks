@@ -1,3 +1,6 @@
 [submodule "webrtcpeer-android"]
 	path = webrtcpeer-android
 	url = https://github.com/nubomedia/webrtcpeer-android
+[submodule "kurento-tree-client-android"]
+	path = kurento-tree-client-android
+	url = https://github.com/nubomedia/kurento-tree-client-android
