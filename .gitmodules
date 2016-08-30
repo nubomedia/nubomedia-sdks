@@ -22,3 +22,6 @@
 [submodule "nubomedia-media-client"]
 	path = nubomedia-media-client
 	url = https://github.com/nubomedia/nubomedia-media-client
+[submodule "kurento-java"]
+	path = kurento-java
+	url = https://github.com/nubomedia/kurento-java
