@@ -52,3 +52,6 @@
 [submodule "nubomedia-graphedit"]
 	path = nubomedia-graphedit
 	url = https://github.com/nubomedia/nubomedia-graphedit
+[submodule "NUBOMEDIA-VCA-JS-API"]
+	path = NUBOMEDIA-VCA-JS-API
+	url = https://github.com/nubomedia/NUBOMEDIA-VCA-JS-API
