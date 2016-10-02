@@ -61,3 +61,6 @@
 [submodule "Kurento-iOS"]
 	path = Kurento-iOS
 	url = https://github.com/nubomedia/Kurento-iOS
+[submodule "nubo-test"]
+	path = nubo-test
+	url = https://github.com/nubomedia/nubo-test
