@@ -52,12 +52,6 @@
 [submodule "nubomedia-graphedit"]
 	path = nubomedia-graphedit
 	url = https://github.com/nubomedia/nubomedia-graphedit
-[submodule "NUBOMEDIA-VCA-JS-API"]
-	path = NUBOMEDIA-VCA-JS-API
-	url = https://github.com/nubomedia/NUBOMEDIA-VCA-JS-API
-[submodule "NUBOMEDIA-VCA-NODE-API"]
-	path = NUBOMEDIA-VCA-NODE-API
-	url = https://github.com/nubomedia/NUBOMEDIA-VCA-NODE-API
 [submodule "Kurento-iOS"]
 	path = Kurento-iOS
 	url = https://github.com/nubomedia/Kurento-iOS
